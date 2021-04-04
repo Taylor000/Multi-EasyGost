@@ -4,6 +4,7 @@
 1. 感谢 @ginuerzh 大佬提供了如此优秀实用的软件，项目地址 `https://github.com/ginuerzh/gost` ，GOST功能强大使用简单，想要详细了解用法的朋友可以查看官方文档 `https://docs.ginuerzh.xyz/gost/`  
 2. 感谢 @风萧萧兮易水寒 大佬的原始脚本，项目地址`https://www.fiisi.com/?p=125` 
 3. 感谢 @ STSDUST 提供的EasyGost脚本（已删库），此脚本是基于其进行修改增强
+4. 感谢 @KANIKIG
 ***
 ## 简介
 
@@ -13,7 +14,7 @@
 ## 脚本
 
 * 启动脚本  
-  `wget --no-check-certificate -O gost.sh https://raw.githubusercontent.com/KANIKIG/Multi-EasyGost/master/gost.sh && chmod +x gost.sh && ./gost.sh`  
+  `wget --no-check-certificate -O gost.sh https://raw.githubusercontent.com/Taylor000/Multi-EasyGost/master/gost.sh && chmod +x gost.sh && ./gost.sh`  
 * 再次运行本脚本只需要输入`./gost.sh`回车即可  
 
 ## 功能
